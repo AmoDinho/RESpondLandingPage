@@ -334,7 +334,11 @@ p.paragraph {
 
 	#mc_embed_signup{background:#B84A62; 
 	clear:left; 
-	font:14px }
+	font:14px ;}
+	/*
 	#mce-EMAIL{
 		
+	}*/
+	#twitter{
+		color:#fff;
 	}
