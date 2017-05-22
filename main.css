@@ -332,13 +332,14 @@ p.paragraph {
 	}
 }
 
-	#mc_embed_signup{background:#B84A62; 
+/*MailChimp Stuff */
+	#mc_embed_signup{background: #B84A62;
 	clear:left; 
-	font:14px ;}
-	/*
-	#mce-EMAIL{
-		
-	}*/
+	font:14px 'karla', sans-serif; 
+	width:100%;
+	}
+
+
 	#twitter{
 		color:#fff;
 	}
